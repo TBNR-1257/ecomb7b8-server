@@ -11,9 +11,8 @@ const { DB_HOST, DB_NAME, DB_PORT } = process.env;
 
 // Online DB Connection
 mongoose.connect(
-  "mongodb://mongo:E0RqLrKjNcIWRvUEkbty@containers-us-west-189.railway.app:7871/test"
+  "mongodb://mongo:E0RqLrKjNcIWRvUEkbty@containers-us-west-189.railway.app:7871"
 );
-
 app.use(cors());
 app.use(express.json());
 
