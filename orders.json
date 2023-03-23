@@ -1,0 +1,1 @@
+{"_id":{"$oid":"641aa27b50e1137d2e98c9fb"},"user":{"$oid":"6412b6f5406b9f54c88b0d2b"},"purchased_date":{"$date":"2023-03-22T06:38:48.481Z"},"items":[{"product":{"$oid":"641945dad25e13e31bb7b8fd"},"quantity":3,"subtotal":3000}],"total":3000,"__v":0}

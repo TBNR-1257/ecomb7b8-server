@@ -1,0 +1,2 @@
+{"_id":{"$oid":"6412b583406b9f54c88b0d27"},"name":"Bryan","username":"TBNR_1257","email":"bryanwth@gmail.com","password":"$2a$10$Z8np3ha.504hRNWQ12CDZ.RjLavUTLjrBUtlL4v9jTVT3bF6Ih/i6","isAdmin":true,"__v":0}
+{"_id":{"$oid":"6412b6f5406b9f54c88b0d2b"},"name":"Jenhan","username":"Jenhan_1257","email":"jenhan@gmail.com","password":"$2a$10$WACJHsxnrufaFvvA9sGdZeIBG9UJElWWf6fVSQ.gii63Vq3Z1V/6e","isAdmin":false,"__v":0}

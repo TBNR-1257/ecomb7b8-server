@@ -1,0 +1,2 @@
+{"_id":{"$oid":"6412be5b483da60ef5906178"},"name":"IPhone","price":1000,"description":"Its another Iphone innit","quantity":27,"isActive":"true","__v":0}
+{"_id":{"$oid":"641945dad25e13e31bb7b8fd"},"name":"ASUKA Telecaster ","price":1753,"description":"It's a guitar","quantity":27,"isActive":"true","image":"public/1679377882683-asuka telecaster.jpg","__v":0}
